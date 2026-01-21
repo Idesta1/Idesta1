@@ -2,6 +2,7 @@
 
 💻 Frontend Developer | JavaScript Enthusiast 
 🌍 Interested in travel, art, and history 
+---
 🚀 Currently learning and building projects with JavaScript
 
 ---
